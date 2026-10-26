@@ -40,13 +40,14 @@ A hands-on framework to improve retail store's **Google Business Profile (GBP / 
 
 ## Results after 1 month | Achivements
 
-| KPI | Baseline | 2-month target | After 1 month | New target |
+| KPI | Baseline | After 1 month |
 |---|---|---|---|---|
-| Google search position (store name + area) | 5th (second last) | Top 3 (Map Pack) | **Top 3** | Top 1 |
-| Total Google reviews | 55 | 200 | **125** | 250 |
-| Google rating | 4.1 | 4.2 | **4.6** | 4.8 |
-| Search-to-visit conversion | 70% | High | **82%** | 90% |
-| NPS (YTD) | 69 | 80 | **84** | 90 |
+| Google search position (store name + area) | 5th (second last) | **Top 3** (Map Pack)| 
+| Total Google reviews | 55 | **125** |
+| Google rating | 4.1 | 4.2 | **4.6** |
+| Search-to-visit conversion | 70% | **82%** |
+| NPS (YTD) | 69 | **84** | 
+| Footfall increase | nill | 12% |
 
 **Activity in the reporting month (April):** 245 Business Profile impressions and 201 direction requests made from the profile.
 
