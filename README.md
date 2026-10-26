@@ -1,4 +1,4 @@
-# Improving Local Online Presence & NPS: A Retail Summer Internship
+# An initiative to Improving Local Online Presence & NPS: Retail Summer Internship
 
 **Summer internship · Bata India Ltd · Kochi, Kerala**
 Author: Mijil K O P
@@ -9,7 +9,7 @@ A hands-on framework to improve retail store's **Google Business Profile (GBP / 
 
 ## The problem
 
-| Area | What I found at the start |
+| Area | Description |
 |---|---|
 | **Digital visibility** | Only 55 Google reviews, versus 1,300+ at the top-performing branch in the same city. The store ranked 4th-5th in Google results for its own location search, below nearby branches and competitors. |
 | **Profile quality** | Incomplete Business Profile and an unaddressed negative photo and review sitting at the top of the listing. |
