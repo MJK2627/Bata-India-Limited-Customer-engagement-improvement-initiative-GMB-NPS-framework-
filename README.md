@@ -1,13 +1,11 @@
-# Improving Local Online Presence & NPS: A Retail Internship Case Study
+# Improving Local Online Presence & NPS: A Retail Summer Internship
 
-**Summer internship project · Bata India Ltd · Kochi, Kerala**
+**Summer internship · Bata India Ltd · Kochi, Kerala**
 Author: Mijil K O P
 
-A hands-on framework to improve a single retail store's **Google Business Profile (GBP / "GMB") visibility and ratings** and its **Net Promoter Score (NPS)**, with a 1-month progress report against baseline KPIs.
+A hands-on framework to improve retail store's **Google Business Profile (GBP / "GMB") visibility and ratings** and its **Net Promoter Score (NPS)**, with a 1-month progress report against baseline KPIs.
 
-> Sanitised for public sharing. Store-level figures are from my internship and reflect one store over a short period, so treat them as a case study rather than a benchmark.
 
----
 
 ## The problem
 
@@ -39,13 +37,8 @@ A hands-on framework to improve a single retail store's **Google Business Profil
 - **Close the loop with detractors:** review every 0-6 response, contact the customer quickly, fix the problem first, and document it so it doesn't recur.
 - **Create memorable moments:** a warm greeting, personalised recommendations, fitting assistance, and a genuine thank-you at checkout.
 
-### 3. Timeline
 
-| Days 1-30: Immediate fixes | Days 31-60: Build momentum | Month 2+: Sustain |
-|---|---|---|
-| Complete profile, upload photos, start replying to all reviews, brief staff on NPS survey | Reach 200 total reviews, break into Map Pack top 3, daily NPS entry target | 10-15 new reviews/month, monthly NPS report and trend analysis |
-
-## Results after 1 month
+## Results after 1 month | Achivements
 
 | KPI | Baseline | 2-month target | After 1 month | New target |
 |---|---|---|---|---|
@@ -58,26 +51,15 @@ A hands-on framework to improve a single retail store's **Google Business Profil
 **Activity in the reporting month (April):** 245 Business Profile impressions and 201 direction requests made from the profile.
 
 **Takeaway:** the two-month targets for search position, rating and NPS were reached within the first month, and the review count more than doubled.
+Brand Identity management
+Local SEO optimization 
 
-## What I'd do differently / learnings
 
-- Review volume is the slowest lever. Asking at the point of sale beats waiting.
-- Reply to reviews quickly: it shows accountability and helps ranking.
-- Fix the problem a detractor raised **before** trying to fix the score.
-- With small samples, a few responses swing NPS heavily, so tracking response *volume* matters as much as the score.
-- Next step: track attribution more rigorously (e.g. compare foot-traffic against profile actions week by week).
 
-## Repository structure
-
-```
-.
-├── README.md          # this case study
-└── (add) assets/      # screenshots of the before/after profile, charts
-```
 
 ## Tools & skills
 
-Google Business Profile · Local SEO · NPS survey analysis · KPI design · Retail customer experience · Business reporting
+Google Business Profile GMB · Local SEO · NPS survey analysis · KPI design · Retail customer experience · Business reporting
 
 ---
 
